@@ -1,0 +1,17 @@
+[ru]
+GE_DYNLIGHT_MESSAGE = ^4[Flash] ^3Свечение от Flash-гранат: ^4%s
+GE_DYNLIGHT_EFFECT_ON = Включено
+GE_DYNLIGHT_EFFECT_OFF = Отключено
+GE_DYNLIGHT_COLOR_CVAR_DESC = Цвет свечения (если указано пустое значение в кавычках, используются случайные цвета)
+GE_DYNLIGHT_RADIUS_CVAR_DESC = Радиус действия эффекта свечения
+GE_DYNLIGHT_DECAY_RADIUS_CVAR_DESC = Радиус затухания эффекта
+GE_DYNLIGHT_DURATION_TIME_CVAR_DESC = Время действия эффекта
+
+[en]
+GE_DYNLIGHT_MESSAGE = ^4[Flash] ^3Flash from Flash-grenade: ^4%s
+GE_DYNLIGHT_EFFECT_ON = Enabled
+GE_DYNLIGHT_EFFECT_OFF = Disabled
+GE_DYNLIGHT_COLOR_CVAR_DESC = Glow color (if an empty value is indicated in quotation marks, random colors are used).
+GE_DYNLIGHT_RADIUS_CVAR_DESC = Radius of glow effect.
+GE_DYNLIGHT_DECAY_RADIUS_CVAR_DESC = Effect attenuation radius.
+GE_DYNLIGHT_DURATION_TIME_CVAR_DESC = Duration of effect.

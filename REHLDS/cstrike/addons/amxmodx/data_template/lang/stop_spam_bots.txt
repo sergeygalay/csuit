@@ -1,0 +1,9 @@
+[ru]
+SSB__BLOCK_INFO = ^4* ^3Чат и микрофон ^4заблокированы! ^3Чтобы разблокировать введите: ^4%s
+SSB__UNLOCKED = ^4* ^3Вы ^4разблокировали ^3чат и микрофон!
+SSB__ALREADY = ^4* ^3Ваш чат и микрофон уже ^4разблокированы!
+
+[en]
+SSB__BLOCK_INFO = ^4* ^3Chat and microphone is ^4blocked! ^3To unlock them type: ^4%s
+SSB__UNLOCKED = ^4* ^3Chat and microphone ^4unlocked!
+SSB__ALREADY = ^4* ^3Your chat and microphone already unlocked!

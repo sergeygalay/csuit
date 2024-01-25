@@ -1,0 +1,14 @@
+// overview description file for de_karnak.bsp
+
+global 
+{
+	ZOOM	1.36
+	ORIGIN	-1144 	744	-272
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_karnak.bmp"
+	HEIGHT	-641
+}
